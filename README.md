@@ -4,7 +4,7 @@ Real-world projects from the NextWork Cloud Engineer Roadmap + freelance labs.
 
 ### 📊 Visualize Data with QuickSight  
 📂 [View Project Folder](./quicksight-visualization/)  
-📎 [PDF Documentation](./quicksight-visualization/quicksight-documentation.pdf)  
+📎 [PDF Documentation](./quicksight-visualization/quicksight-documentation.pdf)
 📝 [Markdown Documentation](./quicksight-visualization/quicksight-documentation.md)
 
 ---
