@@ -1,0 +1,16 @@
+# 🌐 Host a Website on Amazon S3
+
+This project walks through hosting a static website using Amazon S3.
+
+### 🔧 What I Did:
+- Configured an S3 bucket for static website hosting
+- Set permissions and made it publicly accessible
+- Worked through ACLs and bucket policy
+- Enabled versioning and debugged visibility issues
+
+### 💡 Lessons Learned:
+> This wasn’t just about uploading files — it helped me understand **how** and **why** cloud hosting works. I connected the dots between the front-end and AWS infrastructure.
+
+---
+
+Still early, still learning — but I’m in it. Walk with me!
